@@ -3,11 +3,12 @@ body {
 }
 
 p {
+    font-size: 120%;
     border-radius: 25px;     /* afgeronde hoeken */
     background: #ddddff;     /* lichtblauwige achtergrond */
     padding: 20px;
     margin: 30px;
-    width: 400px;
+    width: 600px;
 }
 
 ol {
