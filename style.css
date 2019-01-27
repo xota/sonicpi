@@ -1,0 +1,16 @@
+body {
+    background: #eeffff;     /* blauwige achtergrond */
+}
+
+p {
+    border-radius: 25px;     /* afgeronde hoeken */
+    background: #ddddff;     /* lichtblauwige achtergrond */
+    padding: 20px;
+    margin: 30px;
+    width: 400px;
+}
+
+ol {
+    display: inline-block;
+}
+
